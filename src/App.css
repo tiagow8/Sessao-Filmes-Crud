@@ -1,0 +1,48 @@
+html{
+ height: 100%;
+ box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body{
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+  padding-bottom: 15rem;
+}
+
+@keyframes neon {
+  from {
+      filter: drop-shadow(0 0 0 var(--cor-neon));
+  }to{
+      filter:drop-shadow(0 0 30px var(--cor-neon));
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+
+  .titulo {
+     margin-bottom: 20px;
+     width: 90%;
+
+  }
+}
+
+ .btn-outline-primary {
+  border: 1px solid #FFBE0F;
+  color: #FFBE0F;
+}
+
+ .btn-outline-primary:hover {
+  animation: neon 4s alternate infinite ease-in-out;
+  --cor-neon: #FA1E0E;
+  background-color:#FA1E0E ;
+  border: 1px solid white;
+  color: white;
+}
