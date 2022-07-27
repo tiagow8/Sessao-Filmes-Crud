@@ -31,11 +31,11 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 4. Acessar [http://localhost:3000](http://localhost:3000/) no seu navegador.  
 
-⚠ Obs: para realizar as operações CRUD, no momento, é necessário rodar a API localmente também. Para mais informações de como utilizar a API deste projeto, visite [este repositório.](https://github.com/tiagow8/Sessao-Filmes-Api.git)
+⚠  para realizar as operações CRUD, no momento, é necessário rodar a API localmente também. Para mais informações de como utilizar a API deste projeto, visite [este repositório.](https://github.com/tiagow8/Sessao-Filmes-Api.git)
 
 <br />
 
-<h2 id="tecnologias"> Tecnologias</h2>
+<h2 id="tecnologias"> 🐙Tecnologias</h2>
 
 * [React](https://pt-br.reactjs.org/)
 
@@ -46,7 +46,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 <br />
 
-<h2 id="aprendizado">💻 O que eu pude praticar</h2>
+<h2 id="aprendizado">⚡ O que eu pude praticar e aprender </h2>
 
 * interface e imagens fiz utilizando o canvas, tudo produzido por mim mesmo
 
