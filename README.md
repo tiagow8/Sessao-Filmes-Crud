@@ -12,7 +12,7 @@
 
 <h2 id="sobre"> Sobre</h2>
 
-Aqui está toda a parte backend do projeto onde usei java
+Aqui está toda a parte front do projeto onde usei react
 
 No projeto é possível fazer todas as operações CRUD (create, read, update, delete).
 
@@ -35,7 +35,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 <br />
 
-<h2 id="tecnologias">🚀 Tecnologias</h2>
+<h2 id="tecnologias"> Tecnologias</h2>
 
 * [React](https://pt-br.reactjs.org/)
 
@@ -43,19 +43,22 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 * [React Router](https://reactrouter.com/)
 
-* [Bootstrap](https://getbootstrap.com/)
 
 <br />
 
 <h2 id="aprendizado">💻 O que eu pude praticar</h2>
 
+* interface e imagens fiz utilizando o canvas, tudo produzido por mim mesmo
+
 * Criação de um projeto React
 
 * Rotas 
 
-* Conexão da aplicação com a API
+* Conexão da aplicação com a API 
 
 * Estilização
+
+* Responsividade
 
 <br />
 
